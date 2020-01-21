@@ -1,5 +1,8 @@
 # screenCapture
 A small python script for screencapture
+Uses libraries:
+* pynput      https://pypi.org/project/pynput/
+* pillow      https://pillow.readthedocs.io/en/stable/
 
 After the script starts:
 * click where to  start your capture area
